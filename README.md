@@ -1,4 +1,4 @@
-#Math Magic 
+# Math Magic 
 
 Es un programa matematico para calcular numero magico.
 
